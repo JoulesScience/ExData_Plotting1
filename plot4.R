@@ -29,3 +29,6 @@ plot(data$DateTime, data$Global_reactive_power, type="l",
 
 # Turn off device
 dev.off()
+
+
+##Reference:  https://github.com/sgloutnikov/jh-datascience/blob/master/4-exploratory_data_analysis/pa1/plot4.R
